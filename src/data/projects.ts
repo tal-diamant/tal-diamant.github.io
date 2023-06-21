@@ -29,4 +29,10 @@ export const projects = [
     image: '/images/to-do-list-1.jpg',
     github: 'https://github.com/tal-diamant/to-do-list',
   },
+  {
+    name: 'Landing Page',
+    url: 'https://landing-page-tdp.vercel.app',
+    image: '/images/tdp.jpg',
+    github: 'https://github.com/tal-diamant/landing-page-tdp',
+  },
 ];
