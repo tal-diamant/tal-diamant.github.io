@@ -30,9 +30,15 @@ export const projects = [
     github: 'https://github.com/tal-diamant/to-do-list',
   },
   {
-    name: 'Landing Page',
+    name: 'Landing Page - TDP',
     url: 'https://landing-page-tdp.vercel.app',
     image: '/images/tdp.jpg',
     github: 'https://github.com/tal-diamant/landing-page-tdp',
+  },
+  {
+    name: 'Landing page - DJ',
+    url: 'https://design-joy-one.vercel.app/',
+    image: '/images/design-joy.jpg',
+    github: 'https://github.com/tal-diamant/landing-page-desginjoy',
   },
 ];
